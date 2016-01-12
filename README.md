@@ -4,3 +4,4 @@ A repo for testing Waffle integration
 Another line.
 Hello
 This is the feature!
+This is the awesome feature!
